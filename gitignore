@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Database exports
+*.sql.bak
+*.dump
+
+# Power BI temp files
+*.pbix.bak
+
+# Logs
+*.log
