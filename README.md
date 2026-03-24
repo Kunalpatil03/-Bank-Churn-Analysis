@@ -1,7 +1,6 @@
 # 🏦 Bank Churn Analysis
 
-[Dashboard Preview](<img width="1297" height="733" alt="Screenshot 2026-03-24 152040" src="https://github.com/user-attachments/assets/9045fa54-cb27-436a-800a-6e01ece2b120" />
-)
+![Dashboard Preview](dashboard.png)
 
 > A complete SQL-based analysis of bank customer churn — uncovering why customers leave and which segments are most at risk.
 
@@ -117,9 +116,13 @@ bank-churn-analysis/
 
 ## 🚀 How to Run
 
-1. Import the `[bank_churn](https://drive.google.com/drive/folders/1Mm-hqEV95lJWIJHyJoK4x3n4odxpXoJG?usp=drive_link)` dataset into your MySQL database.
-2. Open `bank_churn_analysis.sql` in MySQL Workbench or any SQL client.
-3. Run queries individually or all at once.
+## 🚀 How to Run
+
+1. Download the dataset from Google Drive:  
+   👉 https://drive.google.com/drive/folders/1Mm-hqEV951JWIJHyJoK4x3n4odxpXoJG?usp=drive_link
+2. Import the `bank_churn` dataset into your MySQL database.
+3. Open `bank_churn_analysis.sql` in MySQL Workbench or any SQL client.
+4. Run queries individually or all at once.
 
 ---
 
