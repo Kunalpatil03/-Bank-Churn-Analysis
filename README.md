@@ -117,7 +117,7 @@ bank-churn-analysis/
 
 ## 🚀 How to Run
 
-1. Import the `bank_churn` dataset into your MySQL database.
+1. Import the bank_churn (https://drive.google.com/drive/folders/1Mm-hqEV95lJWIJHyJoK4x3n4odxpXoJG?usp=drive_link) dataset into your MySQL database.
 2. Open `bank_churn_analysis.sql` in MySQL Workbench or any SQL client.
 3. Run queries individually or all at once.
 
