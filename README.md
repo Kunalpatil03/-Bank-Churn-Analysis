@@ -1,6 +1,6 @@
 # 🏦 Bank Churn Analysis
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 > A complete SQL-based analysis of bank customer churn — uncovering why customers leave and which segments are most at risk.
 
