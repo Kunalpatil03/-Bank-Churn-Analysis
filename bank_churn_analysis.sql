@@ -1,7 +1,7 @@
 -- ============================================================
 --  BANK CHURN ANALYSIS - SQL Queries
 --  Dataset : bank_churn
---  Author  : [Kunal Patil]
+--  Author  : Kunal Patil
 --  Date    : 2025
 -- ============================================================
 
